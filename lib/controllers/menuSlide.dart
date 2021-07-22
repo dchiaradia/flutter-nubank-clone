@@ -15,7 +15,7 @@ Padding menuSlide() {
             width: 15,
           ),
           MenuSlideItem('Pix', Icons.monetization_on_outlined),
-          MenuSlideItem('Pagar', Icons.qr_code_2_outlined),
+          MenuSlideItem('Pagar', Icons.qr_code_outlined),
           MenuSlideItem('Indicar amigos', Icons.people_outline),
           MenuSlideItem('Transferir', Icons.monetization_on_outlined),
           MenuSlideItem('Depositar', Icons.monetization_on_outlined),
